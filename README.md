@@ -7,7 +7,7 @@ Using 211k+ execution fills across a 732-day overlapping window, we analyze real
 ---
 
 ## Data Pipeline Architecture
-
+               
 The flowchart below visualizes the execution pipeline built for this analysis:
 
 ```mermaid
